@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YoutyaYoutyev
 - 👀 Just a furry dunno :P
 - 🌱 Currently learning everything I see, but primary Python
-- 📫 PM to Telegram - t.me/Youtya_Youtyev
+- 📫 PM to Telegram - t.me/youtyay
